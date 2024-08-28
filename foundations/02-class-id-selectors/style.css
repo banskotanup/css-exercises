@@ -1,0 +1,18 @@
+p {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.sec {
+    color: blue;
+    font-size: 36px;
+}
+
+.thi {
+    font-size: 24px;
+}
+
+#for {
+    background-color: lightgreen;
+    font-weight: bold;
+}
